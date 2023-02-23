@@ -1,0 +1,21 @@
+*{
+    
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.map{
+    float: right;
+    width: 32%;
+}
+
+.typescoffe ul li img{
+    
+    width: 1%;
+    height: 1%;
+}
+
+.typescoffe{
+    float: right;
+}
+
