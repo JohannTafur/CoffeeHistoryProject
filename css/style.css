@@ -1,0 +1,67 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+body {
+    margin: 20px;
+}
+
+img {
+    border: chocolate 1px solid;
+    margin: 20px;
+}
+
+.content {
+    border: white 5px double;
+}
+
+.coffe {
+    width: 12%;
+    height: 12%;
+}
+
+.typesCoffe div p {
+    float: right;
+    width: 83%;
+}
+
+.typesCoffe div {
+    border: chocolate 1px solid;
+}
+
+.typesCoffe div li {
+    margin: 39px;
+}
+
+.content h1,
+ul {
+    margin: 10px;
+}
+
+#history img, h1, p {
+    margin: 10px;
+}
+
+#map {
+    float: right;
+    width: 17%;
+}
+
+#Brewing-Styles ul div {
+    border: chocolate 1px solid;
+}
+
+#Brewing-Styles li {
+    margin: 25px;
+}
+
+[href] {
+    color: chocolate;
+}
+
+a:hover[href] {
+    background-color: chocolate;
+    color: rgb(0, 0, 0);
+}
